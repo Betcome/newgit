@@ -1,2 +1,2 @@
 # newgit
-new git hello world
+How-to on Github
